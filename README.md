@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Haskell (COMPX307 @ The University of Waikato)**
 
-- 👨‍💻 All of my projects are available at [https://jesseoconnor.netlify.app/](https://jesseoconnor.netlify.app/)
+- 👨‍💻 Check out my person website @ [https://jesseoconnor.netlify.app/](https://jesseoconnor.netlify.app/)
 
 - 💬 Ask me about **rowing**
 
