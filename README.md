@@ -10,8 +10,6 @@
 
 <br/>
 
-<div align="center">
-
 ```typescript
 const jesse = {
   location:  "Hamilton, New Zealand",
@@ -21,5 +19,3 @@ const jesse = {
   offline:   ["cricket", "lifting", "psychological thrillers", "board games"],
 } as const satisfies Developer;
 ```
-
-</div>
