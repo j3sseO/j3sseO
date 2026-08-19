@@ -16,6 +16,6 @@ const jesse = {
   role:      "Full-stack developer",
   builds:    ["custom platforms", "integrations", "dashboards"],
   paradigm:  "functional",
-  offline:   ["cricket", "lifting", "psychological thrillers", "board games"],
+  offline:   ["cricket", "lifting", "board games""],
 } as const satisfies Developer;
 ```
